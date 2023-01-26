@@ -1,1 +1,1 @@
-# CardProduto-DesafioSemanal-Rocketseat
+# Semana 2 - Card Produto
